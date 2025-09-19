@@ -13,7 +13,7 @@ function mincost(arr)
 		arr.sort((a,b)=>a-b);
 	}
 	
-	return toralcost;
+	return totalcost;
   
 }
 
